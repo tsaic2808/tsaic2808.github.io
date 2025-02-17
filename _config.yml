@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tadepalli Sai Chaitanya"
   avatar           : "profile.png"
-  bio              : "Physics PhD student at University of Wisconsin-Madison"
-  location         : "Madison, WI (USA)"
-  employer         :
+  bio              : "Postdoctoral scholar in Theoretical Cosmology (Physics)"
+  location         : "Bloomington, IN (USA)"
+  employer         : "Indiana University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=Q42woU4AAAAJ&hl=en"
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://-------"
+  orcid            : "https://orcid.org/0000-0001-9947-4748"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
