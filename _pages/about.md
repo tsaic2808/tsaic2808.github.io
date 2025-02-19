@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a **postdoctoral fellow specializing in theoretical cosmology**, currently based at Indiana University, Bloomington. I earned my **doctorate in Physics** from the University of Wisconsin-Madison, USA. My research focuses on exploring the interplay between early-universe physics and late-universe observables, bridging theoretical cosmology with observational data analysis. My interests span a range of topics, including axion cosmology, out-of-equilibrium systems in the early universe, isocurvature perturbations, inflation and primordial perturbations, non-gaussianity, large-scale structure formation, EFTofLSS-based analysis, primordial black holes, and gravitational wave phenomenology.  
+
+Originally from New Delhi, India, I earned my Bachelor’s degree in Physics from the Sri Sathya Sai Institute for Higher Learning and a Master of Technology in Nuclear Sciences from the University of Delhi, India. During my master’s program, I spent a year at the French Atomic Energy Commission (CEA-Saclay) in France, pursuing advanced studies in Theoretical Reactor Physics.  
+
+I began my career as a research scientist at the Institute for Plasma Research (IPR), India, focusing on nuclear analysis for the sub-systems of the International Thermonuclear Experimental Reactor (ITER). During this time, I led the development of an in-house nuclear activation code named 'ACTYS'. In 2018, I embarked on my doctoral journey at the University of Wisconsin-Madison, where I passionately pursued high-energy physics, nuclear physics, and cosmology, and have had the privilege of working closely with brilliant researchers on advancing theoretical cosmology.
+
+Outside of research, I am dedicated to teaching introductory and undergraduate-level physics to engineering students, covering topics such as Mechanics, Electromagnetism, Waves, and Optics, Quantum Mechanics. I enjoy creating memory maps and additional problem sets to enhance the learning experience for my students.  
+
+In my free time, I enjoy reading, hiking, and playing the tabla, a traditional Indian percussion instrument. I also appreciate a good game of squash or badminton. During the summers, I actively participate in short-format cricket leagues, where I take on the role of a medium-pace fast bowler, relishing the competitive spirit of the game.
 
 A data-driven personal website
 ======
