@@ -13,9 +13,11 @@ I am a **postdoctoral fellow specializing in theoretical cosmology**, currently 
 My interests span a range of topics, including **axion cosmology, out-of-equilibrium systems in the early universe, isocurvature perturbations, inflation and primordial perturbations, non-gaussianity, large-scale structure formation, EFTofLSS-based analysis, primordial black holes, and gravitational wave phenomenology**. 
 <!-- Right Side: Image -->
   <div style="flex: 0 0 350px;">
-    <img src="/images/chatgpt.webp" alt="Cosmology Research" style="width: 100%; height: auto; border-radius: 10px;">
+    <img src="/images/chatgpt.webp" alt="Cosmology Research" style="width: 10%; height: auto; border-radius: 10px;">
   </div>
   
 ## News
 
-- (Feb 19, 2025) **[New Publication Released!](https://.....)** - Just published a new paper on "Reasoning of advanced AI models on theoretical physics problems". Check out our website [TP Bench](https://tpbench.org/) for details. - **Upcoming Talk at [....](https://...)** - Stay tuned for an upcoming research talk. - (Oct 15, 2024) **[Conference talk](https://indico.global/event/8004/contributions/72126/)** -Presented research at the PPC-2024 conference in Hyderabad, India.
+- (Feb 19, 2025) **[New Publication Released!](https://.....)** - Just published a new paper on "Reasoning of advanced AI models on theoretical physics problems". Check out our website [TP Bench](https://tpbench.org/) for details.
+- **Upcoming Talk at [....](https://...)** - Stay tuned for an upcoming research talk.
+- (Oct 15, 2024) **[Conference talk](https://indico.global/event/8004/contributions/72126/)** -Presented research at the PPC-2024 conference in Hyderabad, India.
