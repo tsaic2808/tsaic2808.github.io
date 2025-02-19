@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a **postdoctoral fellow specializing in theoretical cosmology**, currently based at Indiana University, Bloomington. I earned my **doctorate in Physics** from the University of Wisconsin-Madison, USA. My research focuses on exploring the interplay between early-universe physics and late-universe observables, bridging theoretical cosmology with observational data analysis. My interests span a range of topics, including **axion cosmology, out-of-equilibrium systems in the early universe, isocurvature perturbations, inflation and primordial perturbations, non-gaussianity, large-scale structure formation, EFTofLSS-based analysis, primordial black holes, and gravitational wave phenomenology**.  
-
 Originally from New Delhi, India, I earned my Bachelor’s degree in Physics from the Sri Sathya Sai Institute for Higher Learning and a Master of Technology in Nuclear Sciences from the University of Delhi, India. During my master’s program, I spent a year at the French Atomic Energy Commission (CEA-Saclay) in France, pursuing advanced studies in Theoretical Reactor Physics.  
 
 I began my career as a research scientist at the Institute for Plasma Research (IPR), India, focusing on nuclear analysis for the sub-systems of the International Thermonuclear Experimental Reactor (ITER). During this time, I led the development of an in-house nuclear activation code named 'ACTYS'. In 2018, I embarked on my doctoral journey at the University of Wisconsin-Madison, where I passionately pursued high-energy physics, nuclear physics, and cosmology, and have had the privilege of working closely with brilliant researchers on advancing theoretical cosmology.
@@ -17,6 +15,8 @@ I began my career as a research scientist at the Institute for Plasma Research (
 Outside of research, I am dedicated to teaching introductory and undergraduate-level physics to engineering students, covering topics such as Mechanics, Electromagnetism, Waves, and Optics, Quantum Mechanics. I enjoy creating memory maps and additional problem sets to enhance the learning experience for my students.  
 
 In my free time, I enjoy reading, hiking, and playing the tabla, a traditional Indian percussion instrument. I also appreciate a good game of squash or badminton. During the summers, I actively participate in short-format cricket leagues, where I take on the role of a medium-pace fast bowler, relishing the competitive spirit of the game.
+
+Languages spoken: Advanced level English, Hindi 
 
 A data-driven personal website
 ======
