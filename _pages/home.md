@@ -19,7 +19,7 @@ redirect_from:
 
   <!-- Right Side: Image -->
   <div style="flex: 0 0 350px;">
-    <img src="/images/your-image-name.png" alt="Cosmology Research" style="width: 100%; height: auto; border-radius: 10px;">
+    <img src="/images/chatgpt.webp" alt="Cosmology Research" style="width: 100%; height: auto; border-radius: 10px;">
   </div>
 
 </div>
