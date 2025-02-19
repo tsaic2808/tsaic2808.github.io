@@ -1,4 +1,3 @@
-
 ---
 title: "Analytic treatment of underdamped axionic blue isocurvature perturbations"
 collection: publications
