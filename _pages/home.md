@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-<img src="/images/chatgpt.webp" alt="Cosmology Research" style="float: right; margin-left: 20px; width: 300px; border-radius: 10px;">
+<img src="/images/chatgpt.webp" alt="Cosmology Research" style="float: right; margin-left: 20px; width: 200px; border-radius: 10px;">
 
 I am a **postdoctoral fellow specializing in theoretical cosmology**, currently based at Indiana University, Bloomington. I earned my **doctorate in Physics** from the University of Wisconsin-Madison, USA. My research focuses on exploring the interplay between early-universe physics and late-universe observables, bridging theoretical cosmology with observational astrophysical data analysis. 
 
