@@ -14,6 +14,6 @@ My interests span a range of topics, including **axion cosmology, out-of-equilib
 
 ## News
 
-- (Feb 19, 2025) **[New Publication Released!](https://.....)** - Just published a new paper on "Reasoning of advanced AI models on theoretical physics problems". Check out our website https://tpbench.org/ for details.
+- (Feb 19, 2025) **[New Publication Released!](https://.....)** - Just published a new paper on "Reasoning of advanced AI models on theoretical physics problems". Check out our website [TP Bench](https://tpbench.org/) for details.
 - **Upcoming Talk at [....](https://...)** - Stay tuned for upcoming research talks.
 
