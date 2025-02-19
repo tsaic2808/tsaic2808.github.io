@@ -23,7 +23,7 @@ My interests span a range of topics, including **axion cosmology, out-of-equilib
 
   <li><strong>Upcoming Talk at <a href="https://..." target="_blank">[Conference Name]</a></strong> - Stay tuned for an upcoming research talk.</li>
 
-  <li class="flashing-news">(Oct 15, 2024) <strong><a href="https://indico.global/event/8004/contributions/72126/" target="_blank">Conference Talk</a></strong> - Presented research at the PPC-2024 conference in Hyderabad, India.</li>
+  <li>(Oct 15, 2024) <strong><a href="https://indico.global/event/8004/contributions/72126/" target="_blank">Conference Talk</a></strong> - Presented research at the PPC-2024 conference in Hyderabad, India.</li>
 </ul>
 
 
