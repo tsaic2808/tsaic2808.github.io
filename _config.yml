@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Tadepalli Sai Chaitanya"
-  avatar           : "profile.png"
-  bio              : "Postdoctoral scholar in Theoretical Cosmology (Physics)"
+  avatar           : "profile_photo2.jpg"
+  bio              : "Postdoctoral fellow in Theoretical Cosmology (Physics)"
   location         : "Bloomington, IN (USA)"
   employer         : "Indiana University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "TSC0008"
   vine             :
   weibo            :
   xing             :
@@ -176,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
