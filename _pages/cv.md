@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Sri Sathya Sai Institute for Higher Learning, India
+* M.Tech in Nuclear Science and Technology, University of Delhi, India
+* Master Nuclear Energy, University of Paris Sud-XI, France
+* M.S. in Physics, University of Wisconsin-Madison, USA
+* Ph.D in Physics, University of Wisconsin-Madison, USA 2024 
 
-Work experience
+<!--Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -57,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
