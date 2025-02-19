@@ -8,12 +8,12 @@ redirect_from:
   - /home.html
 ---
 
-I am a **postdoctoral fellow specializing in theoretical cosmology**, currently based at Indiana University, Bloomington. I earned my **doctorate in Physics** from the University of Wisconsin-Madison, USA. My research focuses on exploring the interplay between early-universe physics and late-universe observables, bridging theoretical cosmology with observational data analysis. 
+I am a **postdoctoral fellow specializing in theoretical cosmology**, currently based at Indiana University, Bloomington. I earned my **doctorate in Physics** from the University of Wisconsin-Madison, USA. My research focuses on exploring the interplay between early-universe physics and late-universe observables, bridging theoretical cosmology with observational astrophysical data analysis. 
 
 My interests span a range of topics, including **axion cosmology, out-of-equilibrium systems in the early universe, isocurvature perturbations, inflation and primordial perturbations, non-gaussianity, large-scale structure formation, EFTofLSS-based analysis, primordial black holes, and gravitational wave phenomenology**.  
 
 ## News
 
-- **[New Publication Released!](https://.....)** - Just published a new paper on "Reasoning of advanced AI models on theoretical physics problems". (Feb 19, 2025)
+- (Feb 19, 2025) **[New Publication Released!](https://.....)** - Just published a new paper on "Reasoning of advanced AI models on theoretical physics problems". Check out our website https://tpbench.org/ for details.
 - **Upcoming Talk at [....](https://...)** - Stay tuned for upcoming research talks.
 
