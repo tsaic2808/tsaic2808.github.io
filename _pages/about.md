@@ -16,6 +16,6 @@ Outside of research, I am dedicated to teaching introductory and undergraduate-l
 
 In my free time, I enjoy reading, hiking, and playing the tabla, a traditional Indian percussion instrument. I also appreciate a good game of squash or badminton. During the summers, I actively participate in short-format cricket leagues, where I take on the role of a medium-pace fast bowler, relishing the competitive spirit of the game.
 
-Languages spoken: English and Hindi (Advanced level)
-                  Telugu (Intermediate level)
-                  French, Tamil and Punjabi (Beginner level)
+Languages spoken: English and Hindi (Advanced level)  
+                  Telugu (Intermediate level)  
+                  French, Tamil and Punjabi (Beginner level)  
