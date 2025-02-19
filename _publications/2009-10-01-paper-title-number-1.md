@@ -1,9 +1,9 @@
 ---
 title: "Theoretical Physics Benchmark (TPBench) - a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-19-02
+permalink: /publication/paper-1
+excerpt: ''
+date: 2025-02-19
 venue: 'arxiv'
 paperurl: 'http://........'
 ---
