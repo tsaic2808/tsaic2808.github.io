@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Top 5 Publications"
 permalink: /publications/
 author_profile: true
 ---
