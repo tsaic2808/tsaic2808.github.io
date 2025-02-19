@@ -17,6 +17,6 @@ expected to provide at least a factor of few improvement on the isocurvature spe
 compared to the existing Planck constraints for large spectral indices while MM is expected to 
 provide about 1 to 1.5 order of magnitude improvement for a broad range of spectral indices.
 
-[Download paper here](https://doi.org/10.1103/PhysRevD.108.103542)
+[Download paper here](https://doi.org/10.1103/PhysRevD.108.103542)  
 Also available freely on [arxiv](https://arxiv.org/abs/2306.09456)
 
