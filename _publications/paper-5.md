@@ -3,7 +3,7 @@
 title: "Analytic treatment of underdamped axionic blue isocurvature perturbations"
 collection: publications
 permalink: /publication/paper-5
-excerpt: ''
+excerpt: ' '
 date: 2021-10-05
 venue: 'PRD'
 paperurl: 'https://doi.org/10.1103/PhysRevD.105.123511'
@@ -13,5 +13,7 @@ Previous computations of strongly blue tilted axionic isocurvature spectra were 
 
 [Download paper here]([http://...](https://doi.org/10.1103/PhysRevD.105.123511))  
 Also available freely on [arxiv](https://arxiv.org/abs/2110.02272)
+
+
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
