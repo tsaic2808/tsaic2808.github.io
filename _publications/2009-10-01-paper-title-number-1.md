@@ -10,4 +10,4 @@ paperurl: 'http://........'
 
 This paper presents a unique research work on testing the reasoning capabilities of state-of-the-art AI models on advanced theoretical physics (TP) problems. To this end, we develop a new TP Benchmark data set consisting of problems ranging from easy undergrad to research-level difficulty. 
 
-[Download paper here](http://...)
+[Download paper here](https://arxiv.org/abs/2502.15815)
