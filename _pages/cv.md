@@ -15,7 +15,7 @@ Education
 * M.Tech in Nuclear Science and Technology, University of Delhi, India
 * Master Nuclear Energy, University of Paris Sud-XI, France
 * M.S. in Physics, University of Wisconsin-Madison, USA
-* Ph.D in Physics, University of Wisconsin-Madison, USA 2024 
+* Ph.D in Physics, University of Wisconsin-Madison, USA (2024) 
 
 <!--Work experience
 ======
