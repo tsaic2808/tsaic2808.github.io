@@ -1,26 +1,59 @@
 ---
 permalink: /research/
 title: "Research"
-excerpt: "Early-universe physics connected to observable structure"
+excerpt: "From early-universe dynamics to observable cosmic structure"
 author_profile: false
 classes: wide
 ---
 
-<div class="page-intro">
+<div class="page-hero page-hero--research">
   <p class="eyebrow">Research</p>
-  <h1>Connecting fundamental physics to observable signatures.</h1>
-  <p class="page-deck">I study how high-energy processes in the early universe can leave measurable imprints in cosmological data.</p>
+  <h1>New physics written into the cosmos.</h1>
+  <p>I connect fundamental model building to observable signatures using analytical theory, numerical simulations, and cosmological data.</p>
 </div>
 
-<div class="topic-grid">
-  <article class="topic-card"><span>01</span><h2>Axions & isocurvature</h2><p>Dynamics of axion-like fields, blue isocurvature spectra, and mechanisms that generate distinctive scale dependence.</p></article>
-  <article class="topic-card"><span>02</span><h2>Inflation & primordial physics</h2><p>Inflationary dynamics, primordial perturbations, non-Gaussianity, and connections to high-energy theory.</p></article>
-  <article class="topic-card"><span>03</span><h2>Large-scale structure</h2><p>Forecasting cosmological constraints using galaxy clustering, the effective field theory of large-scale structure, and bias expansions.</p></article>
-  <article class="topic-card"><span>04</span><h2>Cosmological signals</h2><p>Phenomenology involving primordial black holes, gravitational waves, and other probes of the early universe.</p></article>
-</div>
+<section id="axions" class="research-chapter">
+  <div class="chapter-index">01</div>
+  <div class="chapter-copy">
+    <p class="eyebrow">Early Universe</p>
+    <h2>Axions, isocurvature & primordial dynamics</h2>
+    <p>A central theme of my work is understanding how new fields and nontrivial dynamics during inflation generate measurable primordial fluctuations. I study axionic blue isocurvature, rotating complex scalars, geometric suppression mechanisms, resonant and chaotic regimes, and explicit symmetry breaking.</p>
+    <div class="tag-list"><span>Axion cosmology</span><span>Inflation</span><span>Isocurvature</span><span>Non-Gaussianity</span></div>
+    <a class="text-link" href="https://arxiv.org/abs/2601.22221">Recent: geometric suppression of CMB isocurvature ↗</a>
+  </div>
+</section>
 
-## Research approach
+<section id="dark-matter" class="research-chapter">
+  <div class="chapter-index">02</div>
+  <div class="chapter-copy">
+    <p class="eyebrow">Structure Formation</p>
+    <h2>Warm, fuzzy & mixed dark matter</h2>
+    <p>I investigate how nonstandard dark-matter scenarios alter structure formation, particularly at small scales. This includes warm and fuzzy dark matter, mixed dark-matter models, and the interplay between dark-matter free streaming and primordial isocurvature.</p>
+    <div class="tag-list"><span>Warm dark matter</span><span>Fuzzy dark matter</span><span>Mixed models</span><span>N-body simulations</span></div>
+    <a class="text-link" href="https://arxiv.org/abs/2512.16987">Recent: reviving sub-keV warm dark matter ↗</a>
+  </div>
+</section>
 
-My work combines analytical calculations, numerical methods, effective field theory, statistical forecasting, and the interpretation of observational constraints. I am especially interested in problems where a theoretically motivated signal requires careful modeling before it can be meaningfully compared with data.
+<section id="cosmological-probes" class="research-chapter">
+  <div class="chapter-index">03</div>
+  <div class="chapter-copy">
+    <p class="eyebrow">Cosmological Inference</p>
+    <h2>Large-scale structure & high-redshift galaxies</h2>
+    <p>I use complementary probes across cosmic scale and time: galaxy clustering, EFTofLSS and bias expansions, DES harmonic-space analyses, and ultraviolet luminosity functions of high-redshift galaxies. The goal is to turn theoretically motivated signals into robust observational constraints.</p>
+    <div class="tag-list"><span>EFTofLSS</span><span>Galaxy clustering</span><span>UV luminosity functions</span><span>Forecasting</span></div>
+    <a class="text-link" href="https://arxiv.org/abs/2605.11079">Recent: JWST UVLF isocurvature constraints ↗</a>
+  </div>
+</section>
 
-<div class="inline-cta"><strong>Explore the work in detail.</strong><a class="button button--secondary" href="{{ '/publications/' | relative_url }}">Selected publications</a></div>
+<section id="ai-physics" class="research-chapter">
+  <div class="chapter-index">04</div>
+  <div class="chapter-copy">
+    <p class="eyebrow">AI for Science</p>
+    <h2>Reasoning in theoretical physics</h2>
+    <p>Through TPBench, I have helped evaluate advanced AI systems on theoretical-physics problems spanning undergraduate material through research-level reasoning, including work on test-time scaling methods.</p>
+    <div class="tag-list"><span>TPBench</span><span>AI evaluation</span><span>Scientific reasoning</span></div>
+    <a class="text-link" href="https://tpbench.org/">Visit TPBench ↗</a>
+  </div>
+</section>
+
+<div class="inline-cta"><div><p class="eyebrow">Full record</p><strong>Explore the papers behind these research directions.</strong></div><a class="button button--glass" href="{{ '/publications/' | relative_url }}">All publications</a></div>

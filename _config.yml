@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tadepalli Sai Chaitanya"
+title                    : "Sai Chaitanya Tadepalli"
 title_separator          : "-"
-name                     : &name "Tadepalli Sai Chaitanya"
-description              : &description "Theoretical cosmologist and computational scientist working across early-universe physics, large-scale structure, and quantitative modeling."
+name                     : &name "Sai Chaitanya Tadepalli"
+description              : &description "Theoretical cosmologist studying axions, primordial fluctuations, dark matter, large-scale structure, and high-redshift galaxy probes."
 url                      : https://tsaic2808.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tsaic2808/tsaic2808.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tadepalli Sai Chaitanya"
+  name             : "Sai Chaitanya Tadepalli"
   avatar           : "profile_photo2.jpg"
-  bio              : "Theoretical cosmologist & computational scientist"
+  bio              : "Theoretical & particle cosmologist"
   location         : "Bloomington, IN (USA)"
   employer         : "Indiana University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=Q42woU4AAAAJ&hl=en"
-  email            :
+  email            : "saictade@iu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

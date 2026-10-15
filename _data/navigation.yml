@@ -1,16 +1,19 @@
 # main links links
 main:
-  - title: "About"
-    url: /about/
-
   - title: "Research"
     url: /research/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Data & Modeling"
-    url: /data-modeling/
+  - title: "Talks & Teaching"
+    url: /talks-teaching/
+
+  - title: "About"
+    url: /about/
 
   - title: "CV"
     url: /cv/
+
+  - title: "Quantitative"
+    url: /quantitative/

@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "A physicist working across theory, computation, and data"
+excerpt: "A theoretical cosmologist with roots in nuclear science and scientific computing"
 author_profile: false
 classes: wide
 redirect_from:
@@ -9,31 +9,32 @@ redirect_from:
   - /about.html
 ---
 
-<div class="page-intro">
+<div class="page-hero page-hero--about">
   <p class="eyebrow">About</p>
-  <h1>A physicist shaped by fundamental questions and practical computation.</h1>
-  <p class="page-deck">My path spans nuclear engineering, plasma research, high-energy physics, cosmology, teaching, and scientific software.</p>
+  <h1>Across scales, one question: what can nature reveal through data?</h1>
 </div>
 
-<div class="about-layout">
-  <div class="prose-large">
-    <p>I am a postdoctoral fellow in theoretical cosmology at Indiana University. I earned my Ph.D. in Physics from the University of Wisconsin–Madison, where I worked at the intersection of early-universe theory and observable signatures in astrophysical data.</p>
-
-    <p>Before cosmology, I worked as a research scientist at the Institute for Plasma Research in India, contributing nuclear analysis for ITER subsystems and leading the development of the in-house activation code ACTYS. Earlier training took me from physics at Sri Sathya Sai Institute for Higher Learning, to nuclear science at the University of Delhi, and theoretical reactor physics at CEA Saclay in France.</p>
-
-    <p>Across these settings, the common thread has been translating difficult physical questions into models that can be analyzed, tested, and communicated clearly.</p>
+<div class="profile-story">
+  <div class="profile-story__main">
+    <p class="lead-paragraph">I am a postdoctoral fellow in theoretical and particle cosmology at Indiana University Bloomington. My research lies at the interface of fundamental model building, numerical simulation, and cosmological data analysis.</p>
+    <p>I completed my Ph.D. in Physics at the University of Wisconsin-Madison under Prof. Daniel J. H. Chung. My doctoral and postdoctoral work explores how new fields and nontrivial dynamics in the early and late Universe generate observable signatures.</p>
+    <p>Before graduate school, I served as a Scientific Officer at ITER-India's Institute for Plasma Research. I worked in fusion neutronics and developed ACTYS, a nuclear activation analysis code adopted by the ITER fusion reactor in France. That experience established a lasting interest in scientific software, computational modeling, and research that connects theory with real systems.</p>
+    <p>Outside research, I enjoy teaching physics, reading, hiking, playing the tabla, and competing in squash, badminton, and cricket.</p>
   </div>
-  <aside class="fact-card">
-    <h2>At a glance</h2>
-    <dl>
-      <dt>Current role</dt><dd>Postdoctoral Fellow, Indiana University</dd>
-      <dt>Ph.D.</dt><dd>Physics, University of Wisconsin–Madison, 2024</dd>
-      <dt>Research</dt><dd>Early-universe cosmology and large-scale structure</dd>
-      <dt>Based in</dt><dd>Bloomington, Indiana, USA</dd>
-    </dl>
+  <aside class="profile-facts">
+    <div><span>Current</span><strong>Indiana University Bloomington</strong></div>
+    <div><span>Ph.D.</span><strong>University of Wisconsin-Madison</strong></div>
+    <div><span>Earlier</span><strong>ITER-India / Institute for Plasma Research</strong></div>
+    <div><span>Languages</span><strong>English, Hindi, Telugu; introductory French, Tamil & Punjabi</strong></div>
   </aside>
 </div>
 
-## Beyond research
-
-I enjoy teaching physics, building intuitive memory maps and problem sets, reading, hiking, and playing the tabla. I also play squash, badminton, and short-format cricket.
+<section class="timeline-section">
+  <p class="eyebrow">Path</p>
+  <div class="timeline">
+    <div><span>2024–present</span><h3>Postdoctoral Fellow</h3><p>Indiana University Bloomington</p></div>
+    <div><span>2018–2024</span><h3>Ph.D. in Physics</h3><p>University of Wisconsin-Madison</p></div>
+    <div><span>2014–2018</span><h3>Scientific Officer</h3><p>ITER-India, Institute for Plasma Research</p></div>
+    <div><span>2007–2013</span><h3>Physics & nuclear science</h3><p>SSSIHL, University of Delhi & University of Paris</p></div>
+  </div>
+</section>

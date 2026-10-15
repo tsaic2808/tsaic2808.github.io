@@ -53,6 +53,7 @@ Inside `_pages/`, retain only:
 - `home.md`
 - `publications.md`
 - `research.md`
+- `talks-teaching.md`
 - `sitemap.md`
 
 To delete a file in GitHub: open it, select the three-dot menu, choose **Delete file**, and commit the change. Empty folders disappear automatically.

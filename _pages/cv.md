@@ -7,35 +7,30 @@ redirect_from:
   - /resume
 ---
 
-<div class="page-intro">
+<div class="page-hero page-hero--cv">
   <p class="eyebrow">Curriculum vitae</p>
-  <h1>Research, education, and technical experience.</h1>
-  <p class="page-deck">This concise web CV will be expanded after we add your current appointments, complete publication record, talks, awards, and technical skills.</p>
+  <h1>Research, teaching & scientific experience.</h1>
+  <div class="hero-actions">
+    <a class="button button--glow" href="{{ '/files/Sai_Chaitanya_Tadepalli_CV.pdf' | relative_url }}">Download full CV ↓</a>
+    <a class="button button--glass" href="{{ '/files/Sai_Chaitanya_Tadepalli_Publications.pdf' | relative_url }}">Publication list ↓</a>
+  </div>
 </div>
 
-## Current appointment
+<section class="cv-section">
+  <p class="eyebrow">Appointments</p>
+  <div class="cv-entry"><div><span>2024–present</span></div><div><h2>Postdoctoral Fellow in Physics</h2><p>Indiana University Bloomington</p><p>Theoretical and particle cosmology, numerical simulations, and cosmological data analysis.</p></div></div>
+  <div class="cv-entry"><div><span>2014–2018</span></div><div><h2>Scientific Officer</h2><p>ITER-India, Institute for Plasma Research</p><p>Fusion neutronics, nuclear activation, computational methods, and development of ACTYS.</p></div></div>
+</section>
 
-**Postdoctoral Fellow in Theoretical Cosmology**  
-Indiana University, Bloomington
+<section class="cv-section">
+  <p class="eyebrow">Education</p>
+  <div class="cv-entry"><div><span>2018–2024</span></div><div><h2>Ph.D. in Physics</h2><p>University of Wisconsin-Madison · Advisor: Prof. Daniel J. H. Chung</p></div></div>
+  <div class="cv-entry"><div><span>2021</span></div><div><h2>M.S. in Physics</h2><p>University of Wisconsin-Madison</p></div></div>
+  <div class="cv-entry"><div><span>2010–2013</span></div><div><h2>M.Tech. in Nuclear Science and Technology</h2><p>University of Delhi & University of Paris</p></div></div>
+  <div class="cv-entry"><div><span>2007–2010</span></div><div><h2>B.S. in Physics</h2><p>Sri Sathya Sai Institute for Higher Learning</p></div></div>
+</section>
 
-## Education
-
-- **Ph.D. in Physics**, University of Wisconsin–Madison, 2024
-- **M.S. in Physics**, University of Wisconsin–Madison
-- **Master in Nuclear Energy**, University of Paris-Sud XI, France
-- **M.Tech. in Nuclear Science and Technology**, University of Delhi, India
-- **B.S. in Physics**, Sri Sathya Sai Institute for Higher Learning, India
-
-## Research areas
-
-Axion cosmology · Inflation and primordial perturbations · Isocurvature · Non-Gaussianity · Large-scale structure · EFTofLSS · Primordial black holes · Gravitational waves
-
-## Profiles
-
-<div class="profile-buttons">
-  <a class="button button--secondary" href="https://scholar.google.co.in/citations?user=Q42woU4AAAAJ&hl=en">Google Scholar</a>
-  <a class="button button--secondary" href="https://orcid.org/0000-0001-9947-4748">ORCID</a>
-  <a class="button button--secondary" href="https://github.com/tsaic2808">GitHub</a>
-</div>
-
-> A downloadable academic CV and a separate industry résumé will be added in the next content pass.
+<section class="cv-section cv-section--columns">
+  <div><p class="eyebrow">Awards</p><ul class="clean-list"><li>Van Vleck Research Award, UW-Madison, 2021</li><li>IRSN France award for excellent internship work, 2012</li><li>French Ministry of Foreign Affairs scholarship, 2011–2012</li></ul></div>
+  <div><p class="eyebrow">Schools</p><ul class="clean-list"><li>TASI Summer School, Colorado, 2022</li><li>KIT Summer School on Fusion Technologies, Karlsruhe, 2016</li></ul></div>
+</section>

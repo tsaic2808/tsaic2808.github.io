@@ -1,29 +1,24 @@
 ---
-permalink: /data-modeling/
-title: "Data & Modeling"
-excerpt: "A quantitative profile built through research-scale problems"
+permalink: /quantitative/
+title: "Quantitative"
+excerpt: "Quantitative modeling and scientific computing"
 author_profile: false
 classes: wide
+redirect_from:
+  - /data-modeling/
 ---
 
-<div class="page-intro">
-  <p class="eyebrow">Data & Modeling</p>
-  <h1>Quantitative thinking under uncertainty.</h1>
-  <p class="page-deck">My physics research requires the same core capabilities that drive quantitative research and data-intensive decision making: formulate a model, estimate its parameters, challenge its assumptions, and communicate what the evidence supports.</p>
+<div class="page-hero page-hero--quant">
+  <p class="eyebrow">Quantitative & computational work</p>
+  <h1>Modeling complex systems under uncertainty.</h1>
+  <p>This secondary profile translates research experience in cosmology and nuclear science into quantitative capabilities relevant to modeling, data, and research-intensive industry roles.</p>
 </div>
 
 <div class="capability-grid">
-  <article><h2>Statistical inference</h2><p>Parameter estimation, likelihood-based reasoning, uncertainty quantification, and sensitivity analysis.</p></article>
-  <article><h2>Numerical modeling</h2><p>Turning coupled physical systems into tractable analytical and computational problems.</p></article>
-  <article><h2>Forecasting</h2><p>Fisher-matrix forecasting, covariance modeling, and comparing the information content of future surveys.</p></article>
-  <article><h2>Model validation</h2><p>Testing approximations, interpreting edge cases, and separating robust conclusions from model-dependent ones.</p></article>
+  <article><span>01</span><h2>Statistical inference</h2><p>Likelihoods, parameter estimation, covariance modeling, uncertainty quantification, and sensitivity analysis.</p></article>
+  <article><span>02</span><h2>Simulation</h2><p>Numerical modeling of coupled physical systems, N-body simulations, and testing model behavior across parameter regimes.</p></article>
+  <article><span>03</span><h2>Forecasting</h2><p>Fisher forecasts, experimental sensitivity studies, and comparative information analysis.</p></article>
+  <article><span>04</span><h2>Scientific software</h2><p>Experience developing computational research tools, including ACTYS for nuclear activation analysis.</p></article>
 </div>
 
-## Transferable experience
-
-- Developed research models linking latent theoretical parameters to observable data.
-- Worked with high-dimensional parameter spaces, correlated uncertainties, and competing physical effects.
-- Built and communicated reproducible analytical and computational workflows.
-- Collaborated across theory, phenomenology, and data-analysis perspectives.
-
-> This page is an initial framework. The next revision will add concrete software, datasets, repositories, and project outcomes after we review your technical experience together.
+<div class="notice-panel"><strong>In development.</strong><p>This page will be expanded separately with your programming languages, software stack, GitHub projects, data workflows, and industry-facing résumé.</p></div>
