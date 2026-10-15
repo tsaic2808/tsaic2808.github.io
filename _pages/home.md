@@ -86,6 +86,7 @@ redirect_from:
   <header class="section-kicker">
     <p class="eyebrow">Research program</p>
     <h2>Fundamental models. Observable consequences.</h2>
+
     <p>
       My work moves between formal theory, numerical simulation,
       cosmological inference, and AI-assisted scientific reasoning.
@@ -100,6 +101,7 @@ redirect_from:
       <div>
         <p class="tile-label">Early Universe</p>
         <h3>Axions & primordial fluctuations</h3>
+
         <p>
           Blue isocurvature spectra, rotating complex fields, nonlinear
           dynamics, and non-Gaussian signatures.
@@ -116,6 +118,7 @@ redirect_from:
       <div>
         <p class="tile-label">Cosmic Structure</p>
         <h3>Warm, fuzzy & mixed dark matter</h3>
+
         <p>
           Connecting nonstandard dark-matter models to structure formation
           across cosmic scales.
@@ -132,6 +135,7 @@ redirect_from:
       <div>
         <p class="tile-label">Inference</p>
         <h3>LSS, EFTofLSS & UV luminosity functions</h3>
+
         <p>
           Using galaxy clustering and high-redshift galaxies to test
           early-universe and dark-matter physics.
@@ -148,6 +152,7 @@ redirect_from:
       <div>
         <p class="tile-label">AI in Physics</p>
         <h3>TPBench & scientific reasoning</h3>
+
         <p>
           Evaluating advanced AI models on theoretical-physics problems,
           from undergraduate concepts to research-level reasoning.
@@ -188,17 +193,24 @@ redirect_from:
     </article>
 
     <article class="dispatch-card dispatch-card--talk">
-      <div class="dispatch-type">Upcoming talks</div>
+      <div class="dispatch-type">Upcoming invited talks · 2026</div>
 
-      <h3>New dates to be announced</h3>
+      <h3>Upcoming seminars</h3>
 
-      <p>
-        Upcoming seminars and invited presentations will be posted here
-        as their schedules are confirmed.
-      </p>
+      <ul class="dispatch-events">
+        <li>
+          <strong>University of Pennsylvania</strong>
+          <span>November 6, 2026 · Philadelphia, Pennsylvania</span>
+        </li>
+
+        <li>
+          <strong>Brown University</strong>
+          <span>December 10, 2026 · Providence, Rhode Island</span>
+        </li>
+      </ul>
 
       <a href="{{ '/talks-teaching/' | relative_url }}">
-        View the complete talk record <span aria-hidden="true">→</span>
+        View the complete talk schedule <span aria-hidden="true">→</span>
       </a>
     </article>
 
@@ -219,12 +231,19 @@ redirect_from:
     <article class="dispatch-card dispatch-card--talk">
       <div class="dispatch-type">Recent invited talks · 2026</div>
 
-      <h3>University of Florida & Rice University</h3>
+      <h3>Recent seminars</h3>
 
-      <p>
-        Gainesville, Florida · October 2026<br>
-        Houston, Texas · August 2026
-      </p>
+      <ul class="dispatch-events">
+        <li>
+          <strong>University of Florida</strong>
+          <span>October 2026 · Gainesville, Florida</span>
+        </li>
+
+        <li>
+          <strong>Rice University</strong>
+          <span>August 2026 · Houston, Texas</span>
+        </li>
+      </ul>
 
       <a href="{{ '/talks-teaching/' | relative_url }}">
         View recent talks <span aria-hidden="true">→</span>
