@@ -12,4 +12,3 @@ In this work, we show how one can obtain a large blue spectral index even with a
 
 [Download paper here](https://arxiv.org/abs/2406.12976)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

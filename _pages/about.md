@@ -1,22 +1,39 @@
 ---
-permalink: /aboutme/
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
+permalink: /about/
+title: "About"
+excerpt: "A physicist working across theory, computation, and data"
+author_profile: false
+classes: wide
+redirect_from:
+  - /aboutme/
   - /about.html
 ---
 
-Originally from New Delhi, India, I earned my Bachelor’s degree in Physics from the Sri Sathya Sai Institute for Higher Learning and a Master of Technology in Nuclear Sciences from the University of Delhi, India. During my master’s program, I spent a year at the French Atomic Energy Commission (CEA-Saclay) in France, pursuing advanced studies in Theoretical Reactor Physics.  
+<div class="page-intro">
+  <p class="eyebrow">About</p>
+  <h1>A physicist shaped by fundamental questions and practical computation.</h1>
+  <p class="page-deck">My path spans nuclear engineering, plasma research, high-energy physics, cosmology, teaching, and scientific software.</p>
+</div>
 
-I began my career as a research scientist at the Institute for Plasma Research (IPR), India, focusing on nuclear analysis for the sub-systems of the International Thermonuclear Experimental Reactor (ITER). During this time, I led the development of an in-house nuclear activation code named 'ACTYS'. In 2018, I embarked on my doctoral journey at the University of Wisconsin-Madison, where I passionately pursued high-energy physics, nuclear physics, and cosmology, and have had the privilege of working closely with brilliant researchers on advancing theoretical cosmology.
+<div class="about-layout">
+  <div class="prose-large">
+    <p>I am a postdoctoral fellow in theoretical cosmology at Indiana University. I earned my Ph.D. in Physics from the University of Wisconsin–Madison, where I worked at the intersection of early-universe theory and observable signatures in astrophysical data.</p>
 
-Outside of research, I am dedicated to teaching introductory and undergraduate-level physics to engineering students, covering topics such as Mechanics, Electromagnetism, Waves, and Optics, Quantum Mechanics. I enjoy creating memory maps and additional problem sets to enhance the learning experience for my students.  
+    <p>Before cosmology, I worked as a research scientist at the Institute for Plasma Research in India, contributing nuclear analysis for ITER subsystems and leading the development of the in-house activation code ACTYS. Earlier training took me from physics at Sri Sathya Sai Institute for Higher Learning, to nuclear science at the University of Delhi, and theoretical reactor physics at CEA Saclay in France.</p>
 
-In my free time, I enjoy reading, hiking, and playing the tabla, a traditional Indian percussion instrument. I also appreciate a good game of squash or badminton. During the summers, I actively participate in short-format cricket leagues, where I take on the role of a medium-pace fast bowler, relishing the competitive spirit of the game.
+    <p>Across these settings, the common thread has been translating difficult physical questions into models that can be analyzed, tested, and communicated clearly.</p>
+  </div>
+  <aside class="fact-card">
+    <h2>At a glance</h2>
+    <dl>
+      <dt>Current role</dt><dd>Postdoctoral Fellow, Indiana University</dd>
+      <dt>Ph.D.</dt><dd>Physics, University of Wisconsin–Madison, 2024</dd>
+      <dt>Research</dt><dd>Early-universe cosmology and large-scale structure</dd>
+      <dt>Based in</dt><dd>Bloomington, Indiana, USA</dd>
+    </dl>
+  </aside>
+</div>
 
-**Languages spoken**: 
-                  English and Hindi (Advanced level)  
-                  Telugu (Intermediate level)  
-                  French, Tamil and Punjabi (Beginner level)  
+## Beyond research
+
+I enjoy teaching physics, building intuitive memory maps and problem sets, reading, hiking, and playing the tabla. I also play squash, badminton, and short-format cricket.

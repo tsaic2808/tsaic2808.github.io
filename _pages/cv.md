@@ -1,62 +1,41 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
+classes: wide
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<div class="page-intro">
+  <p class="eyebrow">Curriculum vitae</p>
+  <h1>Research, education, and technical experience.</h1>
+  <p class="page-deck">This concise web CV will be expanded after we add your current appointments, complete publication record, talks, awards, and technical skills.</p>
+</div>
 
-Education
-======
-* B.S. in Physics, Sri Sathya Sai Institute for Higher Learning, India
-* M.Tech in Nuclear Science and Technology, University of Delhi, India
-* Master Nuclear Energy, University of Paris Sud-XI, France
-* M.S. in Physics, University of Wisconsin-Madison, USA
-* Ph.D in Physics, University of Wisconsin-Madison, USA (2024) 
+## Current appointment
 
-<!--Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Postdoctoral Fellow in Theoretical Cosmology**  
+Indiana University, Bloomington
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
+- **Ph.D. in Physics**, University of Wisconsin–Madison, 2024
+- **M.S. in Physics**, University of Wisconsin–Madison
+- **Master in Nuclear Energy**, University of Paris-Sud XI, France
+- **M.Tech. in Nuclear Science and Technology**, University of Delhi, India
+- **B.S. in Physics**, Sri Sathya Sai Institute for Higher Learning, India
+
+## Research areas
+
+Axion cosmology · Inflation and primordial perturbations · Isocurvature · Non-Gaussianity · Large-scale structure · EFTofLSS · Primordial black holes · Gravitational waves
+
+## Profiles
+
+<div class="profile-buttons">
+  <a class="button button--secondary" href="https://scholar.google.co.in/citations?user=Q42woU4AAAAJ&hl=en">Google Scholar</a>
+  <a class="button button--secondary" href="https://orcid.org/0000-0001-9947-4748">ORCID</a>
+  <a class="button button--secondary" href="https://github.com/tsaic2808">GitHub</a>
+</div>
+
+> A downloadable academic CV and a separate industry résumé will be added in the next content pass.
